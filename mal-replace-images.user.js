@@ -2,12 +2,12 @@
 // @name         MAL - Replace Images
 // @namespace    Violentmonkey Scripts
 // @match        https://myanimelist.net/*
-// @version      0.1.0
+// @version      0.1.1
 // @author       ushruff
 // @description  A simple script to fetch high quality images from malscraper and replace them on MAL
 // @icon
-// @homepageURL  https://github.com/ush-ruff/Common/tree/main/MAL-Replace-Images
-// @downloadURL  https://github.com/ush-ruff/Common/tree/main/MAL-Replace-Images/raw/main/mal-replace-images.user.js
+// @homepageURL  https://github.com/ush-ruff/MAL-Replace-Images
+// @downloadURL  https://github.com/ush-ruff/MAL-Replace-Images/raw/main/mal-replace-images.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
